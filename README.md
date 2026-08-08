@@ -28,7 +28,7 @@ A production web server at bookworldstore.com was compromised through a SQL inje
 - Full compromise achieved in under 47 minutes
 
 ## Files
-- 📄 Full SOC incident report — [View the Operation Silent Intrusion Incident Report](./SOC_Incident_Report_OperationSilentIntrusion.docx)
+- 📄 Full SOC incident report — [View the Operation Silent Intrusion Incident Report]([./SOC_Incident_Report_OperationSilentIntrusion.docx](https://github.com/abolarin812/Web-Application-Breach-Investigation/blob/b978e72023cb9e1c98715d463e62e3c6f7b1c72e/Operation%20Silent%20Intrusion.pdf)
 
 ## Disclaimer
 This is a training exercise conducted in a controlled environment. The packet capture was provided as part of an independent forensics program. No real systems were involved.
